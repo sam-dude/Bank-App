@@ -1,4 +1,3 @@
-# main.py
 from src.customer import Customer
 from decimal import Decimal
 import json
